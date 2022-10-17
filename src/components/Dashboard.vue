@@ -45,12 +45,12 @@
             Message
         },
         data() {
-        return {
-            burgers: null,
-            burger_id: null,
-            status: [],
-            message: null
-        }
+            return {
+                burgers: null,
+                burger_id: null,
+                status: [],
+                message: null
+            }
         },
         methods: {
             async getPedidos() {
