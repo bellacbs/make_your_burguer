@@ -21,6 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [ ] Back-end com golang
 - [ ] Página com autenticação
+- [ ] Estilização responsiva
 
 <h2 id="requisitos">:leftwards_arrow_with_hook: Pré-requisitos</h2>
 
