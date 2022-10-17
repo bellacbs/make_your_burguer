@@ -87,8 +87,19 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Em produção",
+      "status": "Solicitado",
       "id": 1
+    },
+    {
+      "name": "Dani",
+      "meat": "Picanha",
+      "bread": "3 Queijos",
+      "optional": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado",
+      "id": 2
     }
   ]
 }
