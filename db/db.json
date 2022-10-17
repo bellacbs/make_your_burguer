@@ -87,18 +87,8 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
-    },
-    {
-      "name": "Izabella",
-      "meat": "Veggie burger",
-      "bread": "3 Queijos",
-      "optional": [
-        "Cheddar"
-      ],
-      "status": "Solicitado",
-      "id": 2
     }
   ]
 }
