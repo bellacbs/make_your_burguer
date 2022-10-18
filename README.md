@@ -17,11 +17,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 * atualizar pedidos
 * deletar pedido
 
-<h2>Em desenvolvimento</h2>
+<h2>BackLog</h2>
 
 - [ ] Back-end com golang
 - [ ] Página com autenticação
 - [ ] Estilização responsiva
+- [ ] Docker
 
 <h2 id="requisitos">:leftwards_arrow_with_hook: Pré-requisitos</h2>
 
